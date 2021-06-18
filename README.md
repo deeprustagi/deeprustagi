@@ -1,5 +1,8 @@
 ### Hi 👋 This is Deep 👨‍💻
 
+- 🔭 I’m currently working on Data Science and Machine Learning
+- 🌱 I’m currently learning django
+- 📫 How to reach me: http://deepanshurustagi.pythonanywhere.com/
 <!--
 **deeprustagi/deeprustagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
