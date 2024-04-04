@@ -1,8 +1,8 @@
-### Hi 👋 This is Deep 👨‍💻
+### Hi 👋 This is Deepanshu Rustagi 👨‍💻
 
-- 🔭 I’m currently working on Data Science and Machine Learning
-- 🌱 I’m currently learning django
+- 🌱 I’m a Software Engineer with skills such as Python, Java, JavaScript, MySQL, MongoDB, OOPS, DBMS, AWS, Spring Boot, Django, Hibernate, Data Analysis, and Machine Learning skills.
 - 📫 How to reach me: http://deepanshurustagi.pythonanywhere.com/
+  
 <!--
 **deeprustagi/deeprustagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
